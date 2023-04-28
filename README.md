@@ -1,5 +1,5 @@
 ### 이승제
-
+매일 꾸준히 공부하고 싶은 학생입니다.
 <!--
 **komos0509/komos0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started: Machine Learning Engineer
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 **portfolio** : https://www.notion.so/c015bf755c214284aac0e706ec86909e?pvs=4  
+🌱 **Github** : https://github.com/komos0509  
+🌱 **Email** : komos10203040@gmail.com  
+  
+
+## 👩‍💻 프로젝트
+
+1. Kaggle - [Predict Student Performance from Game Play](https://www.kaggle.com/competitions/predict-student-performance-from-game-play)
